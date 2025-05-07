@@ -1,23 +1,24 @@
 # Python Projects
 
-This repository contains simple projects I am working on as I learn Python. My goal is to improve my skills by building small projects and gradually move on to more advanced ones over time.
+Bu repo, Python öğrenme sürecimde yaptığım basit projeleri içeriyor. Python dilini sıfırdan öğrenerek kendimi geliştirmeyi hedefliyorum. Zamanla daha ileri seviye projeler de ekleyerek bu repoyu güncel tutacağım.
 
-## Purpose
+## Amaç
 
-- Learn Python fundamentals
-- Practice with small projects
-- Build coding habits
-- Document my progress
+- Python temel kavramlarını öğrenmek
+- Küçük projelerle pratik yapmak
+- Kodlama alışkanlığı kazanmak
+- Öğrendiklerimi belgeleyerek ilerlememi takip etmek
 
-## Contents
+## İçerik
 
-- Basic scripts
-- Algorithm exercises
-- Small applications
-- Examples of newly learned concepts
+- Basit scriptler
+- Algoritma alıştırmaları
+- Küçük uygulamalar
+- Yeni öğrendiğim konulara dair örnekler
+
+Her proje kendi klasörü altında yer almakta ve açıklayıcı **README.md** dosyaları içermektedir.
 
 ---
 
-💻 **Start date:** May 2025  
-🚀 **Goal:** Build a solid foundation in Python
-
+💻 **Başlangıç tarihi:** Mayıs 2025  
+🚀 **Hedef:** Python'da sağlam bir temel oluşturmak
